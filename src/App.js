@@ -13,7 +13,7 @@ function App() {
 <div className='container'>
   <div className='top'>
     <div className='location'>
-      <p>dallas</p>
+      <p>dallass</p>
     </div>
     <div className='temp'>
       <h1>60f</h1>
